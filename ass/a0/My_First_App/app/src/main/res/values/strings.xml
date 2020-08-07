@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_First_App</string>
+    <string name="press_me">Press me</string>
+    <string name="default_text">Default_text</string>
+</resources>

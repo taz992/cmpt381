@@ -1,0 +1,15 @@
+part1
+file create and edit
+Controller.java
+BlobCommand.java
+BlobClipboard.java
+
+MoveCommand.java
+
+
+
+part2
+file create and edit
+CreateCommand.java
+Commanddemo.java
+commandmanager.java

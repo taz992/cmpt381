@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">381assignment1</string>
+    <string name="textview">Settings</string>
+    <string name="textview2">Allow Notifications</string>
+    <string name="textview3">Volume</string>
+    <string name="textview4">Telephone Number</string>
+    <string name="textview6">Summary of settings:</string>
+    <string name="textview7">Notifications:</string>
+    <string name="textview8">Volume:</string>
+    <string name="textview9">Phone Number:</string>
+    <string name="textview10">Range:</string>
+    <string name="textview11">-</string>
+</resources>
